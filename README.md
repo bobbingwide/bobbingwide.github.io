@@ -6,9 +6,9 @@ Which he's now done.
 Hurrah.
 
 4 Sep 2024 update 
-bobbingwide.uk
-!(/vsgloik-aye.jpg)
+Site: bobbingwide.uk
 
-![Herb Miller railcard](https://bobbingwide.github.io/Herb Miller railcard.jpg)
+Here are a couple of images from the repository's root directory.
+![vsgloik aye](https://bobbingwide.github.io/vsgloik-aye.jpg)
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Railcard photo](https://bobbingwide.github.io/Herb%20Miller%20railcard.jpg)
